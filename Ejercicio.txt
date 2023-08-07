@@ -12,3 +12,6 @@ Este ejercicio te ayudará a familiarizarte con los conceptos básicos de clonar
 realizar cambios, confirmarlos y sincronizarlos con el repositorio remoto utilizando GitHub
 Desktop. ¡Diviértete practicando!
 esto son otras lineas mas
+WENAS SEÑORES Y SEÑORITAS
+
+
