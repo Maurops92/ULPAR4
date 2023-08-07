@@ -1,0 +1,13 @@
+Confirma y guarda los cambios: Vuelve a GitHub Desktop y verás los cambios detectados
+en el repositorio clonado. Escribe un resumen breve y descriptivo en el campo "Summary"
+(Resumen) y opcionalmente, añade una descripción más detallada en el campo
+"Description" (Descripción). Luego, selecciona el botón "Commit to main" (Confirmar en
+rama principal) para guardar los cambios localmente.
+6. Sincroniza con el repositorio remoto: Una vez que hayas confirmado los cambios,
+selecciona la opción "Push origin" (Enviar a origen) en la parte superior de la interfaz de
+GitHub Desktop. Esto enviará los cambios al repositorio remoto en GitHub.
+7. Verifica los cambios en GitHub: Abre el repositorio en GitHub.com y verifica que los
+cambios realizados en tu computadora se reflejen en el repositorio remoto.
+Este ejercicio te ayudará a familiarizarte con los conceptos básicos de clonar un repositorio,
+realizar cambios, confirmarlos y sincronizarlos con el repositorio remoto utilizando GitHub
+Desktop. ¡Diviértete practicando!
