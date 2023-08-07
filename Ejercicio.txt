@@ -11,3 +11,4 @@ cambios realizados en tu computadora se reflejen en el repositorio remoto.
 Este ejercicio te ayudará a familiarizarte con los conceptos básicos de clonar un repositorio,
 realizar cambios, confirmarlos y sincronizarlos con el repositorio remoto utilizando GitHub
 Desktop. ¡Diviértete practicando!
+esto son otras lineas mas
